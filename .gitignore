@@ -1,1 +1,9 @@
+
+#ignore the below specific file
 abc.txt
+#ignore files starts withx/y/z
+[xyz]*.txt
+#ignore all files ends with .bkp
+*.bkp
+#ignore all files starts with .jar
+*.jar
